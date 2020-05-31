@@ -1,0 +1,10 @@
+{
+  "name": "anki-connect-english",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/laochake/anki-connect-english.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
